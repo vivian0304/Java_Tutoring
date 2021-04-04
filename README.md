@@ -1,5 +1,5 @@
 # Java_Tutoring
-Java Language Tutoring
+ Java Language Tutoring
 =======================
 # 1. 학습 목표
  JAVA 프로그래밍에 대한 기초적, 기본적 지식 배양 및 흥미 유도
@@ -8,7 +8,7 @@ Java Language Tutoring
 # 3. 참고 교재
   JAVA가 보이는 그림책, 성안당
 # 4. 주차별 계획서
-## 1주차) 
+## 4.1. 1주차 
     - Hello World!
     - 변수
     - 수치형
